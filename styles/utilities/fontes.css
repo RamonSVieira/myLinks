@@ -1,0 +1,17 @@
+.font-1xl {
+  font: 600 2.25rem/1.2 "Roboto";
+}
+
+.font-1m {
+  font: 400 1rem/1.2 "Roboto";
+  opacity: 0.8;
+  letter-spacing: 2px;
+}
+
+.font-1g {
+  font: 700 1.25rem/1 "Roboto";
+}
+
+.font-1p {
+  font: 500 1rem/1.5 "Roboto";
+}
